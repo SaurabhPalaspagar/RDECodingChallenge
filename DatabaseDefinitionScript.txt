@@ -1,0 +1,1 @@
+For NJIT University ASP.Net Application i am using Entity Framework 6.1.3 and generated Database internally which can be found under DAL (Data Access Layer) in SchoolInitilizer.cs which stores some default dummy data. So all you have to do is Build the project and press Ctrl+F5 to run this web application.
