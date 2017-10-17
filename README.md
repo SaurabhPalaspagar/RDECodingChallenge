@@ -4,9 +4,12 @@ Entity Framework 6.1.3 is used to generate database internally which can be foun
 
 # Software+frameworks used 
 • Visual Studio 2013
+
 • Microsoft SQL Server
+
 • Entity Framework 6.1.3
 
 # Functions
-• Delete , Update and Insert operation
-• Concurrencies - Handle race condition
+• Delete ,Update and Insert operation
+
+• Concurrencies - Handle's race condition
